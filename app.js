@@ -1,9 +1,9 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    swal("SABIA QUE DIRIAS SI.!")
+    swal("SABIA QUE DIRIAS SI, OBVIAMEENTE💅.!")
 .then((value) => {
-  swal(`ME HACES LA PERSONA MAS FELIZ: ${value}`);
+  swal(`Te quiero muchooo mi vida!!`);
 });
 });
 
